@@ -42,7 +42,7 @@ IMPORTVET_VERSION ?= v0.1.0
 # renovate: datasource=npm depName=markdownlint-cli
 MARKDOWNLINTCLI_VERSION ?= 0.37.0
 # renovate: datasource=npm depName=textlint
-TEXTLINT_VERSION ?= 13.3.3
+TEXTLINT_VERSION ?= 13.4.1
 # renovate: datasource=npm depName=textlint-filter-rule-comments
 TEXTLINT_FILTER_RULE_COMMENTS_VERSION ?= 1.2.2
 # renovate: datasource=npm depName=textlint-rule-one-sentence-per-line
